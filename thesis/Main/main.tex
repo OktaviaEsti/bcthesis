@@ -1,0 +1,118 @@
+
+\documentclass{DTETI_CP_C501}
+
+% Penambahan Package yang akan Digunakan
+
+\usepackage{graphicx}
+% \usepackage{graphicx,subcaption}
+\usepackage{setspace}
+% \usepackage{subfigure}
+% \usepackage[demo]{graphicx}
+\usepackage[list=on,font=small]{subcaption}
+\usepackage{array}
+\usepackage{indentfirst}
+\usepackage{titlesec}
+\usepackage{lipsum}
+\usepackage[utf8]{inputenc}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{caption}
+\usepackage{longtable} 
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{gensymb}
+\usepackage{hyperref}
+% \usepackage{showframe}
+\usepackage{amsmath, nccmath}
+\usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{diffcoeff}
+% \usepackage[table,xcdraw]{xcolor}
+\usepackage{colortbl}
+\usepackage{tikz}
+\usepackage{pdfpages}
+\usepackage{makecell}
+\usepackage{siunitx}
+\usepackage{color}
+\usepackage{soul}
+\usepackage{pdfpages}
+
+\bibliographystyle{plain} 
+\usepackage[numbers,sort&compress]{natbib}
+\DeclareFontShape{OT1}{cmss}{b}{n}{<->ssub * cmss/bx/n}{}  %bold equation pake \mathbf{}
+
+% ------------------------------------------------------------ %
+% Awal Dokumen
+\begin{document}
+%Auto format commands
+\newcommand{\covid}{COVID-19}
+\newcommand{\auto}{\textit{autonomous}}
+\newcommand{\lidar}{LiDAR}
+\newcommand{\dev}{\textit{developer}}
+\newcommand{\objd}{\textit{object recognition}}
+\newcommand{\svm}{\textit{supervised machine learning}}
+\newcommand{\capstone}{\textit{capstone}}
+\newcommand{\node}{\textit{nodes}}
+
+% \renewcommand\cellalign{c}
+
+% ------------------------------------------------------------ %
+% Data Capstone
+\input{Data_Capstone.tex}
+% ------------------------------------------------------------ %
+% Membuat Halaman Judul hingga Catatan Revisi Dokumen
+\maketitle
+
+% ------------------------------------------------------------- %
+% Isi Laporan
+
+% BAB 01 : Pengantar 
+\chapter{\uppercase{Pengantar}}
+\label{chap:Pengantar}
+\input{../Isi_Laporan/BAB_01.tex}
+
+% BAB 02 : Dasar Teori Pendukung 
+\chapter{\uppercase{Dasar Teori Pendukung}}
+\label{chap:Dasar_Teori_Pendukung}
+\input{../Isi_Laporan/BAB_02.tex}
+
+% BAB 03 : Analisis Studi Pustaka Kunci dan Pemilihan Metode
+\chapter{\uppercase{Analisis Studi Pustaka Kunci dan Pemilihan Metode}}
+\label{chap:Analisis_Studi_Pustaka_Kunci_Pemilihan_Metode}
+\input{../Isi_Laporan/BAB_03.tex}
+
+% BAB 04 : Detail Implementasi
+\chapter{\uppercase{Detail Implementasi}}
+\label{chap:Detail_Implementasi}
+\input{../Isi_Laporan/BAB_04.tex}
+
+% BAB 05 : Pengujian, Improvement, dan Pembahasan
+\chapter{\uppercase{Pengujian dan Pembahasan}}
+\label{chap:Pengujian_Improvement_dan_Pembahasan}
+\input{../Isi_Laporan/BAB_05.tex}
+
+% BAB 06 : Impact dari the proposed engineering design ke aspek sosial dan lingkungan
+\chapter{\uppercase{Analisis Mengenai Pengaruh Solusi \textit{Engineering Design} }}
+\label{chap:Impact_Engineering}
+\input{../Isi_Laporan/BAB_06.tex}
+
+% BAB 07 : Kesimpulan dan Saran
+\chapter{\uppercase{Kesimpulan dan Saran}}
+\label{chap:Kesimpulan_Saran}
+\input{../Isi_Laporan/BAB_07.tex}
+
+% ------------------------------------------------------------ %
+% References
+
+\begin{thebibliography}{}
+
+    \input{Referensi.tex}
+
+\end{thebibliography}
+
+%% Setting Halaman Baru : Lampiran
+\newpage
+\includepdf[pages=-]{lampiran.pdf}
+
+% Akhir Dokumen
+\end{document}

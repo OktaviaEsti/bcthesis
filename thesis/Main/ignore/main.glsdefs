@@ -1,0 +1,392 @@
+\glsdefs@newdocentry{N_p}%
+{%
+name={\ensuremath {\mathbf {N_p}}},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {\protect \mathbf  {N_p}}},%
+firstplural={\protect \ensuremath  {\protect \mathbf  {N_p}}s},%
+text={\protect \ensuremath  {\protect \mathbf  {N_p}}},%
+plural={\protect \ensuremath  {\protect \mathbf  {N_p}}s},%
+description={Jumlah titik terdeteksi sensor},%
+descriptionplural={Jumlah titik terdeteksi sensor},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{epsilon}%
+{%
+name={\ensuremath {\epsilon }},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {\epsilon }},%
+firstplural={\protect \ensuremath  {\epsilon }s},%
+text={\protect \ensuremath  {\epsilon }},%
+plural={\protect \ensuremath  {\epsilon }s},%
+description={Jarak dua titik berdekatan \lidar },%
+descriptionplural={Jarak dua titik berdekatan \lidar },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{delta}%
+{%
+name={\ensuremath {\delta }},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {\delta }},%
+firstplural={\protect \ensuremath  {\delta }s},%
+text={\protect \ensuremath  {\delta }},%
+plural={\protect \ensuremath  {\delta }s},%
+description={Jarak titik terdekat dengan garis \lidar },%
+descriptionplural={Jarak titik terdekat dengan garis \lidar },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Snum}%
+{%
+name={\ensuremath {S_{num}}},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {S_{num}}},%
+firstplural={\protect \ensuremath  {S_{num}}s},%
+text={\protect \ensuremath  {S_{num}}},%
+plural={\protect \ensuremath  {S_{num}}s},%
+description={Jumlah titik minimal untuk \textit {seed} sistem deteksi},%
+descriptionplural={Jumlah titik minimal untuk \textit {seed} sistem deteksi},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Pmin}%
+{%
+name={\ensuremath {P_{min}}},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {P_{min}}},%
+firstplural={\protect \ensuremath  {P_{min}}s},%
+text={\protect \ensuremath  {P_{min}}},%
+plural={\protect \ensuremath  {P_{min}}s},%
+description={Jumlah titik minimal segmen garis sistem deteksi},%
+descriptionplural={Jumlah titik minimal segmen garis sistem deteksi},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{segmen}%
+{%
+name={\ensuremath {\mathbf {Seed}(i,j)}},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {\protect \mathbf  {Seed}(i,j)}},%
+firstplural={\protect \ensuremath  {\protect \mathbf  {Seed}(i,j)}s},%
+text={\protect \ensuremath  {\protect \mathbf  {Seed}(i,j)}},%
+plural={\protect \ensuremath  {\protect \mathbf  {Seed}(i,j)}s},%
+description={Sekumpulan segmen dari data ke-$i$ sampai data ke-$j$},%
+descriptionplural={Sekumpulan segmen dari data ke-$i$ sampai data ke-$j$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{x_c}%
+{%
+name={\ensuremath {x_c}},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {x_c}},%
+firstplural={\protect \ensuremath  {x_c}s},%
+text={\protect \ensuremath  {x_c}},%
+plural={\protect \ensuremath  {x_c}s},%
+description={Titik pusat lingkaran atau segmen pada sumbu $x$},%
+descriptionplural={Titik pusat lingkaran atau segmen pada sumbu $x$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{y_c}%
+{%
+name={\ensuremath {x_c}},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {x_c}},%
+firstplural={\protect \ensuremath  {x_c}s},%
+text={\protect \ensuremath  {x_c}},%
+plural={\protect \ensuremath  {x_c}s},%
+description={Titik pusat lingkaran atau segmen pada sumbu $y$},%
+descriptionplural={Titik pusat lingkaran atau segmen pada sumbu $y$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{r_c}%
+{%
+name={\ensuremath {r_c}},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {r_c}},%
+firstplural={\protect \ensuremath  {r_c}s},%
+text={\protect \ensuremath  {r_c}},%
+plural={\protect \ensuremath  {r_c}s},%
+description={Panjang jari-jari lingkaran},%
+descriptionplural={Panjang jari-jari lingkaran},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{theta}%
+{%
+name={\ensuremath {\theta }},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {\theta }},%
+firstplural={\protect \ensuremath  {\theta }s},%
+text={\protect \ensuremath  {\theta }},%
+plural={\protect \ensuremath  {\theta }s},%
+description={Besar sudut},%
+descriptionplural={Besar sudut},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{lokasi_r2}%
+{%
+name={\ensuremath {\mathbb {R}^2}},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {\protect \mathbb  {R}^2}},%
+firstplural={\protect \ensuremath  {\protect \mathbb  {R}^2}s},%
+text={\protect \ensuremath  {\protect \mathbb  {R}^2}},%
+plural={\protect \ensuremath  {\protect \mathbb  {R}^2}s},%
+description={Ruang Euclidean 2 dimensi},%
+descriptionplural={Ruang Euclidean 2 dimensi},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{diferensial_biasa}%
+{%
+name={\ensuremath {\diff {x}{t}}},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {\diff {x}{t}}},%
+firstplural={\protect \ensuremath  {\diff {x}{t}}s},%
+text={\protect \ensuremath  {\diff {x}{t}}},%
+plural={\protect \ensuremath  {\diff {x}{t}}s},%
+description={Turunan fungsi $x$ terhadap t},%
+descriptionplural={Turunan fungsi $x$ terhadap t},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{diferensial_p}%
+{%
+name={\ensuremath {\diffp {x}{t}}},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {\diffp {x}{t}}},%
+firstplural={\protect \ensuremath  {\diffp {x}{t}}s},%
+text={\protect \ensuremath  {\diffp {x}{t}}},%
+plural={\protect \ensuremath  {\diffp {x}{t}}s},%
+description={Turunan parsial fungsi $x$ terhadap t},%
+descriptionplural={Turunan parsial fungsi $x$ terhadap t},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{line_odr}%
+{%
+name={\ensuremath {x_i = \frac {(x_0 + my_0 - m*b)}{(m^2 + 1)}}\newline \ensuremath {y_i = m*y_i + b}},%
+sort={L},%
+type={main},%
+first={\protect \ensuremath  {x_i = \protect \frac  {(x_0 + my_0 - m*b)}{(m^2 + 1)}}\protect \newline  \protect \ensuremath  {y_i = m*y_i + b}},%
+firstplural={\protect \ensuremath  {x_i = \protect \frac  {(x_0 + my_0 - m*b)}{(m^2 + 1)}}\protect \newline  \protect \ensuremath  {y_i = m*y_i + b}s},%
+text={\protect \ensuremath  {x_i = \protect \frac  {(x_0 + my_0 - m*b)}{(m^2 + 1)}}\protect \newline  \protect \ensuremath  {y_i = m*y_i + b}},%
+plural={\protect \ensuremath  {x_i = \protect \frac  {(x_0 + my_0 - m*b)}{(m^2 + 1)}}\protect \newline  \protect \ensuremath  {y_i = m*y_i + b}s},%
+description={Rumus untuk menghitung titik potong $(x_i,y_i)$ pada sebuah garis lurus yang berpotongan dengan garis tegak lurus pada titik $(x_0,y_0)$},%
+descriptionplural={Rumus untuk menghitung titik potong $(x_i,y_i)$ pada sebuah garis lurus yang berpotongan dengan garis tegak lurus pada titik $(x_0,y_0)$},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+

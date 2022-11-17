@@ -1,0 +1,83 @@
+\babel@toc {bahasa}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Gambar Pertambahan Kasus COVID-19\ Dunia\cite {a3}.\relax }}{2}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Gambar Perkembangan Kasus COVID-19\ Indonesia\cite {a1}.\relax }}{3}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Jumlah Kematian Tenaga Kesehatan Akibat COVID-19\cite {a6}.\relax }}{4}{figure.caption.10}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Robot \textit {Autonomous} CRUZR di Rumah Sakit Belgium\cite {a9}.\relax }}{5}{figure.caption.11}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Robot Pelayan Pasien COVID-19\ di Afrika \cite {a10}.\relax }}{6}{figure.caption.12}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Contoh Jenis-Jenis Robot\cite {b1}.\relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {d}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {e}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {f}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {g}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {h}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {i}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {j}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {k}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {l}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {m}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {n}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {subfigure}{\numberline {o}{\ignorespaces \relax }}{8}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Alur Kontrol Robot Beroda \cite {b3}.\relax }}{11}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Geometri Robot Pioneer 3DX \cite {b4}.\relax }}{12}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Contoh hasil bacaan kamera RGB-D\cite {b6}.\relax }}{14}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Kedalaman yang Hilang pada Kamera RGB-D\cite {b9}.\relax }}{16}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Hasil \textit {Inpainting} pada Kamera RGB-D\cite {b9}.\relax }}{17}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Contoh Hasil \textit {Depth Filling}\cite {b9}.\relax }}{18}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Contoh Hasil \textit {Depth Filling} Pendekatan Matriks\cite {b9}.\relax }}{18}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Cara kerja sensor ultrasonik\cite {bs2}.\relax }}{19}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Sensor Jarak Inframerah\cite {bs3}.\relax }}{20}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Contoh hasil bacaan LiDAR\ 3D\cite {bs7}.\relax }}{21}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Gambar arsitektur LiDAR\ Konvensional dan Fungsinya\cite {bs9}.\relax }}{22}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Contoh Konfigurasi Emisi LiDAR\cite {bs9}.\relax }}{23}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Jenis-jenis Alat Pemindaian LiDAR\ dan Pola Pemindaiannya\cite {bs9}.\relax }}{23}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Proses Penyaringan Fluks Cahaya pada LiDAR\cite {bs9}.\relax }}{25}{figure.caption.27}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces \textit {Spatial Filtering}\relax }}{25}{figure.caption.27}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces \textit {Spectral Filtering}\relax }}{25}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Diagram Proses \textit {Object Recognition}.\relax }}{27}{figure.caption.28}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Tampilan Data Kaki Manusia dari Atas\cite {c1b}.\relax }}{29}{figure.caption.29}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Dua Kaki Manusia\relax }}{29}{figure.caption.29}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Satu Kaki Manusia\relax }}{29}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \textit {Plotting} segmentasi bacaan LiDAR\cite {c2}.\relax }}{31}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Ilustrasi Metode \textit {Hip Detection}.\relax }}{32}{figure.caption.31}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Ilustrasi Kerja Sistem Deteksi.\relax }}{40}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Diagram Kerja Sistem secara Umum.\relax }}{41}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Denah Lantai 2 Gedung DTETI UGM\cite {d00}.\relax }}{42}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Pembuatan Denah Ruangan\relax }}{43}{figure.caption.35}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Denah Ruangan.\relax }}{43}{figure.caption.35}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Denah Ruangan dengan Manusia.\relax }}{43}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Potongan Program Pembacaan Gambar Denah.\relax }}{44}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Potongan Program Penyimpanan Data Denah.\relax }}{44}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Ilustrasi \textit {Seed-growing Algorithm} pada LiDAR.\relax }}{45}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Jarak $\epsilon $ dan $\delta $ pada Garis dan Titik.\relax }}{47}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces ODR \textit {Fitting}.\relax }}{51}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Potongan Program Klasifikasi Manusia.\relax }}{55}{figure.caption.41}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Gambar Denah Ruangan.\relax }}{59}{figure.caption.42}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Gambar Hasil Bacaan Program pada Denah.\relax }}{60}{figure.caption.43}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Gambar Hasil Bacaan dengan \textit {Error}.\relax }}{61}{figure.caption.45}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Gambar Bacaan LiDAR\ pada Robot Berjalan.\relax }}{61}{figure.caption.46}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Pengujian \textit {Circle Fitting}.\relax }}{62}{figure.caption.47}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Pengujian \textit {Line Fitting}.\relax }}{62}{figure.caption.48}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Grafik Waktu Pemrosesan\relax }}{63}{figure.caption.49}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Data Hasil Analisis Waktu Pemrosesan\relax }}{63}{figure.caption.50}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Proses Pengujian Seed Detection\relax }}{64}{figure.caption.51}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Data Luaran Pengujian \textit {Seed Detection}\relax }}{65}{figure.caption.52}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Hasil Pengujian \textit {Seed Detection}\relax }}{65}{figure.caption.53}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Pendeteksian \textit {Circle Segment} dan \textit {Line Segment}\relax }}{66}{figure.caption.54}%
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Posisi Robot di Denah\relax }}{66}{figure.caption.54}%
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Titik Terbaca\relax }}{66}{figure.caption.54}%
+\contentsline {subfigure}{\numberline {c}{\ignorespaces Segmen Terbaca\relax }}{66}{figure.caption.54}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Akurasi Pendeteksian Lingkaran\relax }}{67}{figure.caption.55}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Simulasi LiDAR\ Bergerak dalam Ruangan\relax }}{68}{figure.caption.56}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Uji Akurasi Deteksi Manusia\relax }}{69}{figure.caption.57}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsfinish 
+\contentsfinish 

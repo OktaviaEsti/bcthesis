@@ -1,0 +1,12 @@
+
+\section{Kesimpulan}
+\label{sec:kesimpulan}
+
+Pengembangan sistem pendeteksi manusia untuk robot \covid\ pada proyek \capstone\ ini dilakukan menggunakan sensor \lidar\ 2D. Metode yang digunakan adalah pengembangan dari metode \textit{seed-growing} yang biasanya digunakan untuk \textit{image processing}. Sistem ini mendeteksi bentuk garis dan lingkaran dari data lingkungan yang diperoleh dengan algoritma \textit{fitting} yaitu \textit{least-square} dan ODR. Sistem dalam bentuk simulasi pendeteksian data denah ruangan hingga klasifikasi objek yang ditemukan. Simulasi membutuhkan gambar denah ruangan untuk dijadikan masukkan data \lidar\ yang kemudian diproses dalam sistem deteksi. Proyek \textit{capstone} ini secara umum terdiri dari empat bagian yaitu pembacaan denah, pembuatan data \lidar, pendeteksian objek, dan klasifikasi manusia. 
+    
+Simulasi pembacaan \lidar\ dilakukan dengan memasukkan spesifikasi dan \textit{error} pembacaan dengan jarak pembacaan sekitar 1 m. Data dikelompokkan menjadi dua jenis segmen melalui metode \textit{seed-growing} jika memenuhi syarat. Segmen garis dan lingkaran dicari dengan titik yang berdekatan kemudian dilakukan \textit{fitting} untuk mencari garis yang memiliki residu terkecil. Kelompok titik tersebut kemudian tergolong sebagai segmen apabila jumlah dan ukuran segmen memenuhi batas minimal. Robot disimulasikan bergerak dengan menampilkan denah data yang dibaca, objek yang ditemukan, dan manusia yang terdeteksi. Akurasi pendeteksian lingkaran dan manusia yang didapat dari simulasi juga telah mencapai lebih dari $80\%$ yaitu 87,61\% untuk akurasi deteksi lingkaran, 97,37\% untuk akurasi posisi lingkaran, 82,92\% akurasi ukuran lingkaran, dan 98,31\% akurasi manusia yang terdeteksi. Hasil ini telah dapat memenuhi spesifikasi yang diinginkan.
+
+\section{Saran}
+\label{sec:saran}
+
+Proyek \textit{capstone} ini dilakukan masih dalam bentuk simulasi. Diharapkan proyek dapat diuji dan dikembangkan menggunakan data sensor asli pada ruangan. Sistem ini juga diharapkan untuk dikembangkan pada robot dan menjadi kesatuan dalam sistem robot. Sistem deteksi sudah mampu mendeteksi posisi manusia namun dalam keadaan objek tidak bergerak. Pengembangan metode lebih lanjut perlu dilakukan apabila ingin diperoleh fungsi-fungsi selain pendeteksian, misalnya \textit{tracking} manusia. Pengembangan metode pemrograman diperlukan supaya menghasilkan sistem yang dapat mengolah data dengan lebih stabil dan akurat, sehingga dapat mendukung berbagai kemampuan berkaitan dengan pendeteksian manusia. 

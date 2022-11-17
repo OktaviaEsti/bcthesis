@@ -1,0 +1,65 @@
+\babel@toc {bahasa}{}\relax 
+\contentsline {chapter}{HALAMAN PENGESAHAN}{ii}{table.caption.1}%
+\contentsline {chapter}{BUKTI BEBAS PLAGIASI}{iii}{table.caption.1}%
+\contentsline {chapter}{{\uppercase {Daftar Isi}}}{iv}{section*.3}%
+\contentsline {chapter}{{\uppercase {Daftar Gambar}}}{vi}{section*.5}%
+\contentsline {chapter}{{\uppercase {Daftar Tabel}}}{viii}{section*.7}%
+\contentsline {chapter}{DAFTAR SIMBOL DAN NOTASI}{ix}{section*.7}%
+\contentsline {chapter}{CATATAN REVISI DOKUMEN}{x}{table.0.1}%
+\contentsline {chapter}{INTISARI}{xi}{table.0.2}%
+\contentsline {chapter}{RINGKASAN EKSEKUTIF}{xii}{table.0.2}%
+\contentsline {chapter}{\numberline {BAB 1}\uppercase {Pengantar}}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Perkembangan COVID-19}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Dampak COVID-19\ terhadap Tenaga Kesehatan}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Bidang Robotika untuk COVID-19}{5}{section.1.3}%
+\contentsline {chapter}{\numberline {BAB 2}\uppercase {Dasar Teori Pendukung}}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Robot}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Jenis-jenis Robot}{7}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Robot \textit {Autonomous}}{10}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Robot Bergerak}{11}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Sensor Persepsi}{13}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Kamera RGB-D}{14}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}Jenis-jenis Kamera RGB-D}{14}{subsubsection.2.2.1.1}%
+\contentsline {paragraph}{\numberline {2.2.1.1.1}Kamera \textit {Time of Flight}}{15}{paragraph.2.2.1.1.1}%
+\contentsline {paragraph}{\numberline {2.2.1.1.2}Kamera \textit {Structured Light}}{15}{paragraph.2.2.1.1.2}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}\textit {Missing Depth}}{16}{subsubsection.2.2.1.2}%
+\contentsline {paragraph}{\numberline {2.2.1.2.1}RGB Image Inpainting}{16}{paragraph.2.2.1.2.1}%
+\contentsline {paragraph}{\numberline {2.2.1.2.2}\textit {Depth Filling}}{17}{paragraph.2.2.1.2.2}%
+\contentsline {subsection}{\numberline {2.2.2}Sensor Ultrasonik}{19}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Sensor Inframerah}{20}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Sensor LiDAR\ (\textit {Light Detection and Ranging})}{21}{subsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.4.1}Emisi LiDAR}{22}{subsubsection.2.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.2.4.2}Pemindaian}{23}{subsubsection.2.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.2.4.3}Penerimaan Fluks}{24}{subsubsection.2.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.2.4.4}\textit {Filtering}}{24}{subsubsection.2.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.2.4.5}Konversi Fluks ke Tegangan}{25}{subsubsection.2.2.4.5}%
+\contentsline {section}{\numberline {2.3}Sistem Operasi Robot}{25}{section.2.3}%
+\contentsline {section}{\numberline {2.4}\textit {Object Recognition}}{26}{section.2.4}%
+\contentsline {chapter}{\numberline {BAB 3}\uppercase {Analisis Studi Pustaka Kunci dan Pemilihan Metode}}{28}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Analisis Metode \textit {Leg Detection}}{28}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Analisis Metode \textit {Torso Detection}}{30}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Analisis Metode \textit {Hip Detection}}{32}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Pemilihan Metode}{33}{section.3.4}%
+\contentsline {chapter}{\numberline {BAB 4}\uppercase {Detail Implementasi}}{35}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Luaran \textit {Capstone Project} beserta Spesifikasinya}{35}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Batasan Masalah}{38}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Detail Rancangan}{39}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Persiapan Denah Ruangan}{42}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Persiapan Data LiDAR}{45}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Deteksi Segmen Garis dan Lingkaran}{45}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}\textit {Orthogonal Distance Regression} dan \textit {Least-square Circle Fitting}}{50}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Klasifikasi Manusia}{53}{subsection.4.3.5}%
+\contentsline {section}{\numberline {4.4}\textit {Improvement}}{55}{section.4.4}%
+\contentsline {chapter}{\numberline {BAB 5}\uppercase {Pengujian dan Pembahasan}}{59}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Pengujian dan Pembahasan}{59}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Skenario Pengujian Simulasi LiDAR\ dan Analisis}{59}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Skenario Pengujian \textit {Fitting Algorithm} dan Analisis}{62}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Skenario Pengujian \textit {Seed Detection} dan Analisis}{64}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}Skenario Pengujian \textit {Segment Detection} dan Analisis}{66}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}Skenario Pengujian Klasifikasi dan Simulasi LiDAR\ Bergerak dan Analisis}{67}{subsection.5.1.5}%
+\contentsline {chapter}{\numberline {BAB 6}\uppercase {Analisis Mengenai Pengaruh Solusi \textit {Engineering Design} }}{70}{chapter.6}%
+\contentsline {chapter}{\numberline {BAB 7}\uppercase {Kesimpulan dan Saran}}{72}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Kesimpulan}{72}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Saran}{72}{section.7.2}%
+\contentsline {chapter}{REFERENSI}{73}{chapter*.58}%
+\contentsfinish 
